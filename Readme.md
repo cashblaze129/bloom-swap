@@ -17,7 +17,8 @@ Bloom Swap is a decentralized exchange (DEX) integration that facilitates token 
 - Example Transaction: [View on Solscan](https://solscan.io/tx/2NQQwDVmWsad9mtfCHcEwGwAZhPc19VASbtwq1JpTywdheQNN2GHh6eNRaZFiL7PS4kAHuKQetK7RbaBzUPTGpsf)
 
 - Screenshot of the transaction:
-- ![image](https://github.com/user-attachments/assets/c8d3e57f-517e-45c2-a00e-5c45ed3b0bbe)
+- <img width="1449" height="686" alt="image" src="https://github.com/user-attachments/assets/bf3d5b2d-890b-47d8-9f80-94125f5b095f" />
+
 
 
 ## Features
